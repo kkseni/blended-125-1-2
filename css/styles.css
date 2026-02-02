@@ -126,7 +126,7 @@ img {
     padding-bottom: 180px;
 }
 
-.hero-image {
+/* .hero-image {
     background-image: url(../images/hero-image.jpg);
     background-size: cover;
     width: 100%;
@@ -135,4 +135,4 @@ img {
     top:0;
     left:0;
     z-index: -1;
-}
+} */
